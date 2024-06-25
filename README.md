@@ -1,0 +1,2 @@
+# How-to-Perform-Interactions-in-the-Vue-Diagram-Component
+A quick start Vue project that shows how to perform interactions in the Vue Diagram component. This project includes code snippets for interactions like selection, dragging, resizing, rotating nodes, editing texts, deletion of nodes and connectors, and how to restrict interactions. It also shows how to perform zooming, and undo-redo operations.
