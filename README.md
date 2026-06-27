@@ -1,6 +1,6 @@
 # How to Perform Interactions in the Vue Diagram Component
 
-A quick start Vue project that shows how to perform interactions in the [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram) component. This project includes code snippets for interactions like selection, dragging, resizing, rotating nodes, editing texts, deletion of nodes and connectors, and how to restrict interactions. It also shows how to perform zooming, panning, and undo-redo operations.
+A quick start Vue project that shows how to perform interactions in the [Vue Diagram](https://www.syncfusion.com/diagram-sdk/vue-diagram) component. This project includes code snippets for interactions like selection, dragging, resizing, rotating nodes, editing texts, deletion of nodes and connectors, and how to restrict interactions. It also shows how to perform zooming, panning, and undo-redo operations.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-perform-interactions-in-the-vue-diagram-component 
 
